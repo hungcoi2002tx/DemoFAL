@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UserRekongition.props" />
+</Project>
